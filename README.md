@@ -10,7 +10,7 @@
 
 ### 📜 Goals for 2023
 
-I want to make a FiveM server this year. I would like to learn a little more about flutter, java and also complement my knowledge in lua. It is very easy to design a fivem server but all the infrastructure that comes behind it is not easy but I was excited to solve this challenge.}
+I want to make a FiveM server this year. I would like to learn a little more about flutter, java and also complement my knowledge in lua. It is very easy to design a fivem server but all the infrastructure that comes behind it is not easy but I was excited to solve this challenge.
 
 ### ☕ Do you want to talk to me? 
 You can contact me through discord with my username mrween, I will be happy to answer you.
