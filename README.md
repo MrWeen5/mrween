@@ -5,7 +5,6 @@
 - ✏️ I am currently working on a FiveM server
 - 🌱 I am currently learning Java
 - 🤍 I am a medical student and in my spare time a space lover
-- ✨ Fact about me i🤍 M
 - 🐇 My pet is a bunny named Coco
 
 ### 📜 Goals for 2023
